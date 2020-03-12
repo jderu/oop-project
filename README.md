@@ -7,3 +7,5 @@
 
 # prescription basket
 <img src="/images/prescription_basket.png">
+
+<p>Made with C++ and Qt library.</p>
